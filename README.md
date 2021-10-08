@@ -9,6 +9,9 @@
 
 - 🤝 I’m looking for help with **backend developer**
 
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravpawar3102)](https://github.com/Gauravpawar3102/github-readme-stats)
+
+
 - 📫 How to reach me **gauravpawar3102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
