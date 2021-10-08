@@ -7,7 +7,7 @@
 
 -👯 I’m looking to collaborate on Web Development and Web Designing
 
-- 📫 How to reach me: E-mail: gauravpawar3102@gmail.com 
+
 
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravpawar3102&show_icons=true&theme=radical)
