@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pawar</h1>
 <h3 align="center">Learning to Code...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpawar3102&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpawar3102" /> </p>
+
 
 - 🔭 I’m currently working on **Javascript,React.Js,Firebase**
 
@@ -26,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravpawar3102&show_icons=true&locale=en" alt="gauravpawar3102" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpawar3102&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpawar3102" /> </p>
