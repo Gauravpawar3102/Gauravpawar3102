@@ -3,12 +3,8 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Pawar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-I am Gaurav Pawar. you can find me everywhere with handle name Gaurav Pawar ( gauravpawar3102 ). I am an undergraduate student at MCET CSE.
+I can Design, develop, and Deploy Web and Mobile Applications.
 
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working with React.Js .
-- 🌱 I’m currently learning Firebase,node.js,Figma,Tailwind Css.
-- 👯 I’m looking to collaborate on opensource and group projects.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Connect with me :
